@@ -1,0 +1,42 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto);
+html,
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  font-family: 'Roboto';
+}
+
+.page {
+  min-height: 100vh;
+  background: #FFFFFF;
+}
+
+.header {
+  
+}
+
+.menu {
+  
+}
+
+
+.main {
+
+}
+
+.footer {
+  background: #AE7C78;
+}
+
+.bord {
+  border: 2px solid red;
+}
+
+.bord1 {
+  border: 2px solid green;
+}
+
+.bord2 {
+  border: 2px solid blue;
+}
